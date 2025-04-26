@@ -11,10 +11,7 @@ header{
     background-color: rgb(95, 64, 43);
     text-align: center;
     margin: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
+    border-radius: 50px;
 }
 
 h1{
