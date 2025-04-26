@@ -1,0 +1,22 @@
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(126, 82, 53);
+    margin: -14px;
+    text-align: center;
+    font-family: "Hedvig Letters Serif", serif;
+    font-style: normal;
+}
+
+header{
+    background-color: rgb(95, 64, 43);
+    text-align: center;
+    margin: 10px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+p{
+    font-size: 12px;
+}
